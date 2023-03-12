@@ -1,12 +1,11 @@
-/*
-Copyright © 2023 NAME HERE <EMAIL ADDRESS>
-*/
+// Package cmd contains executable cli commands.
+// Copyright © 2023 dxZhang <dxzhang49@gmail.com>
+// /*
 package cmd
 
 import (
-	"os"
-
 	"github.com/spf13/cobra"
+	"os"
 )
 
 // rootCmd represents the base command when called without any subcommands
