@@ -1,6 +1,6 @@
-// Package cmd
+// Package cmd contains executable cli commands.
 // Copyright © 2023 dxZhang <dxzhang49@gmail.com>
-///*
+// /*
 package cmd
 
 import (
