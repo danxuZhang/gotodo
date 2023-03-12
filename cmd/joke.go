@@ -12,6 +12,7 @@ import (
 	"net/http"
 )
 
+// Joke Represents a requested joke.
 type Joke struct {
 	Id     string `json:"id"`
 	Joke   string `json:"joke"`
